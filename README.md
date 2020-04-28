@@ -1,4 +1,7 @@
 # EfficientNet_DR
 CS 591 Deep learning Project
 
-In progress
+
+References:
+
+EfficientNet code: https://github.com/qubvel/efficientnet
