@@ -1,6 +1,15 @@
 # EfficientNet_DR
 CS 591 Deep learning Project
 
+Description of files:
+
+* ```Effnetb6.ipynb & effnetb7.ipynb```: Used for training models
+
+* ```inference-kernel.ipynb```: Submitted to Kaggle to check QWK score
+
+* ```preprocess_dataprep.ipynb```: Augmentations and pre-processing of images
+
+* ```plots.ipynb```: Used to plot final result and training data
 
 Code References:
 
